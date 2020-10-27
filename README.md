@@ -20,6 +20,7 @@ existing development knowledge and experiences to come up with practical solutio
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)\
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
