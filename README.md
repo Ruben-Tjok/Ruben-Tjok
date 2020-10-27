@@ -1,4 +1,4 @@
-![Repository Status](https://img.shields.io/badge/Author-Ruben%20Tjok-blue?style=for-the-badge&logo=appveyor)
+![Repository Status](https://img.shields.io/badge/Author-Ruben%20Tjok-blue)
 
 <h1 align="center">Hi 👋, I'm Ruben Tjok 👋🏼 👨🏻‍💻</h1>
 <h3 align="center">A self-taught programmer and born Suriname</h3>
