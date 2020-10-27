@@ -19,6 +19,7 @@ existing development knowledge and experiences to come up with practical solutio
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)\
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
@@ -34,6 +35,7 @@ existing development knowledge and experiences to come up with practical solutio
 ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
