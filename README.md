@@ -1,7 +1,6 @@
 ![Repository Status](https://img.shields.io/badge/Author-Ruben%20Tjok-blue)
 
 <h1 align="center">Hi 👋, I'm Ruben Tjok 👋🏼 👨🏻‍💻</h1>
-<h3 align="center">A self-taught programmer and born Suriname</h3>
 
 <img src="https://github.com/ruben-tjok/ruben-tjok/blob/main/Ruben-Tjok.png?raw=true" alt="banner that says Ruben Tjok - software engineer, content creator.">
 
