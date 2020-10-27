@@ -23,6 +23,7 @@ existing development knowledge and experiences to come up with practical solutio
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)\
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
