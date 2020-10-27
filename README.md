@@ -11,7 +11,7 @@ existing development knowledge and experiences to come up with practical solutio
 - 🌱 I’m currently learning **React and Flutter**
 - 👯 I’m looking to collaborate with **other content creators**
 - ⚡ Fun fact: **Coffee is Life** ☕
-- Contact me on <a href="https://www.linkedin.com/in/tjok417/">LinkedIn</a> 💼
+- 💼 Contact me on <a href="https://www.linkedin.com/in/tjok417/">LinkedIn</a>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
