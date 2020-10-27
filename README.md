@@ -59,4 +59,4 @@ existing development knowledge and experiences to come up with practical solutio
 </p>
 
 ### Visitors Count
-<img align="left" src = "https://profile-counter.glitch.me/TheAlphamerc/count.svg" alt ="Loading">
+<img align="left" src = "https://profile-counter.glitch.me/Ruben-Tjok/count.svg" alt ="Loading">
