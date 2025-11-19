@@ -38,16 +38,6 @@ existing development knowledge and experiences to come up with practical solutio
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Ruben-Tjok">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ruben-Tjok&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ruben-Tjok&layout=compact&langs_count=8&theme=react"/>
-</a>
-</p>
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
@@ -58,5 +48,4 @@ existing development knowledge and experiences to come up with practical solutio
 <a href="https://www.facebook.com/ruben.janine.5/"><img src="https://img.shields.io/badge/-@ruben.janine.5-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 </p>
 
-### Visitors Count
-<img align="left" src = "https://profile-counter.glitch.me/Ruben-Tjok/count.svg" alt ="Loading">
+
