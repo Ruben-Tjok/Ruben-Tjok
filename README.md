@@ -45,7 +45,7 @@ existing development knowledge and experiences to come up with practical solutio
 <a href="https://linkedin.com/in/tjok417"><img src="https://img.shields.io/badge/-tjok417-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ruben_tjok@visualboxsolutions.com"><img src="https://img.shields.io/badge/-ruben_tjok@visualboxsolutions.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/visualboxsolutions/"><img src="https://img.shields.io/badge/-@visualboxsolutions-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/gio.tjoen/"><img src="https://img.shields.io/badge/-@ruben.janine.5-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/gio.tjoen/"><img src="https://img.shields.io/badge/-@gio.tjoen-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 </p>
 
 
