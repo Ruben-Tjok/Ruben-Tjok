@@ -1,51 +1,49 @@
-![Repository Status](https://img.shields.io/badge/Author-Ruben%20Tjok-blue)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Ruben Tjok 👋🏼 👨🏻‍💻</h1>
+  <img src="./Ruben-Tjok.png" alt="Ruben Tjok — Owner and IT Advisor, Software Engineer, Cloud and SaaS Architect" />
 
-<img src="https://github.com/ruben-tjok/ruben-tjok/blob/main/Ruben-Tjok.png?raw=true" alt="banner that says Ruben Tjok - software engineer, content creator.">
+</div>
 
-> A Pro-active minded, capable and committed Software Engineer with a 
-proven ability to meet agreed deadlines and work to defined development methodologies within a structured environment. Focused on any task at hand and able to utilize
-existing development knowledge and experiences to come up with practical solutions and alternatives to development processes. Negotiating and communicating skills are my tools to provide guidance and advice to both in house and third party development teams. 
-
-- 🌱 I’m currently learning **React and Flutter**
-- 👯 I’m looking to collaborate with **other content creators**
-- ⚡ Fun fact: **Coffee is Life** ☕
-- 💼 Contact me on <a href="https://www.linkedin.com/in/tjok417/">LinkedIn</a>
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-### 🛠 &nbsp;Tech Stack
-
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)\
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)\
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-
-### 🤝🏻 &nbsp;Connect with Me
+<h1 align="center">Hi, I'm Ruben Tjok 👋</h1>
 
 <p align="center">
-<a href="https://www.visualboxsolutions.com"><img src="https://img.shields.io/badge/-visualboxsolutions.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/tjok417"><img src="https://img.shields.io/badge/-tjok417-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ruben_tjok@visualboxsolutions.com"><img src="https://img.shields.io/badge/-ruben_tjok@visualboxsolutions.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/visualboxsolutions/"><img src="https://img.shields.io/badge/-@visualboxsolutions-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/gio.tjoen/"><img src="https://img.shields.io/badge/-@gio.tjoen-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+  Owner &amp; IT Advisor at <a href="https://www.visualboxsolutions.com">VisualBox Solutions</a><br />
+  Software Engineer · Cloud &amp; SaaS Architect · Graphic Designer
 </p>
 
+I design, build, and advise on practical digital products and reliable technology platforms. My work spans software engineering, cloud and infrastructure, business systems, SaaS product development, and visual communication.
 
+### What I work on
+
+- Building maintainable web applications and SaaS products from concept to delivery
+- Designing Laravel/PHP backends, Next.js experiences, APIs, and PostgreSQL data systems
+- Planning and operating cloud infrastructure with AWS, Docker, and Microsoft technologies
+- Advising organizations on architecture, integrations, automation, security, and delivery
+- Turning complex ideas into clear interfaces, brand assets, and usable digital experiences
+
+### Core toolkit
+
+![PHP](https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-111827?style=flat-square&logo=laravel&logoColor=FF2D20)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=339933)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1)
+![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED)
+![Microsoft](https://img.shields.io/badge/Microsoft-111827?style=flat-square&logo=microsoft&logoColor=5E5E5E)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-111827?style=flat-square&logo=flutter&logoColor=02569B)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-111827?style=flat-square&logo=adobecreativecloud&logoColor=DA1F26)
+
+### Let’s connect
+
+<p align="center">
+  <a href="https://www.visualboxsolutions.com"><img src="https://img.shields.io/badge/VisualBox%20Solutions-3423A6?style=flat-square&logo=googlechrome&logoColor=white" alt="VisualBox Solutions" /></a>
+  <a href="https://www.linkedin.com/in/tjok417/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ruben_tjok@visualboxsolutions.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.instagram.com/visualboxsolutions/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.facebook.com/gio.tjoen/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
+
+> Building useful technology, connecting systems, and making complex ideas easier to use.
